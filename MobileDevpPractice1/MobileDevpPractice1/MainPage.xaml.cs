@@ -13,6 +13,8 @@ namespace MobileDevpPractice1
         public MainPage()
         {
             InitializeComponent();
+            Console.WriteLine("Hello World!");
+
         }
     }
 }
