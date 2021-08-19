@@ -24,13 +24,17 @@ namespace MobileDevpPractice1
 
         private void loginButton_Clicked(object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty(emailEntry.Text) || string.IsNullOrEmpty(passEntry.Text))
+            if (string.IsNullOrEmpty(emailEntry.Text))
             {
-                DisplayAlert("Alert!", "Either the email or the password entry is empty", "OK");
+                DisplayAlert("Error!", "Campo Email no puede estar vacio", "OK");
+            }
+            else if (string.IsNullOrEmpty(passEntry.Text))
+            {
+                DisplayAlert("Error!", "Campo Password no puede estar vacio", "OK");
             }
             else
             {
-                DisplayAlert("Success!", "You have logged in successfully", "OK");
+                DisplayAlert("Bienvenido!", $"Hola {emailEntry.Text}", "OK");
             }
         }
     }
