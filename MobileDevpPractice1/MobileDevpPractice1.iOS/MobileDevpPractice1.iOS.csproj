@@ -133,4 +133,7 @@
       <Name>MobileDevpPractice1</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\web_hi_res_512.png" />
+  </ItemGroup>
 </Project>
