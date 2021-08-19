@@ -6,16 +6,17 @@ Screenshots of the applicatoin working:
 
 - We can fill the 2 entries (email and password) of the application.
 
-![WhatsApp Image 2021-08-19 at 1 45 00 AM (5)](https://user-images.githubusercontent.com/52004258/130014756-9ad9978b-e65f-44fd-aeac-f118063f02ff.jpeg)
+![Screenshot_20210819-020146](https://user-images.githubusercontent.com/52004258/130016407-ecf671aa-ec93-48ee-b251-55022f783e3c.jpg)
 
-- If we press the button "Login", it will appear the message of "Success! You have logged in successfully", as long as the 2 entries is filled with characteres.
+- If we press the button "Login", it will appear the message of "“Bienvenido” “Hola, (name introduced by the user)”, as long as the 2 entries is filled with characteres.
 
-![WhatsApp Image 2021-08-19 at 1 45 00 AM (4)](https://user-images.githubusercontent.com/52004258/130014845-5ee554d7-6a24-493c-89a6-5225dee029f0.jpeg)
+![Screenshot_20210819-020151](https://user-images.githubusercontent.com/52004258/130016461-3c7ce791-6754-4346-8348-1b299e6e3c1d.jpg)
 
-- In the other hand, if we leave one of the two entries empty, then it will give an alert to the user saying "Either the email or the password entry is empty".
+- In the other hand, if we leave one of the two entries empty, then it will give an alert to the user saying "Error! Campo Email no puede estar vacio" o "Error! Campo Password no puede estar vacio".
 
-![WhatsApp Image 2021-08-19 at 1 45 00 AM (3)](https://user-images.githubusercontent.com/52004258/130015192-16e1fc11-87f4-4f39-a368-3fbdde76cd60.jpeg)
-![WhatsApp Image 2021-08-19 at 1 45 00 AM (2)](https://user-images.githubusercontent.com/52004258/130015204-d21e308b-234a-4b79-977a-1ff821d83fb5.jpeg)
-![WhatsApp Image 2021-08-19 at 1 45 00 AM (1)](https://user-images.githubusercontent.com/52004258/130015209-3155e06b-6095-4474-9e97-4035c3a196ab.jpeg)
-![WhatsApp Image 2021-08-19 at 1 45 00 AM](https://user-images.githubusercontent.com/52004258/130015219-11048a5c-98fb-4bff-b466-a6fb2e93a107.jpeg)
+![Screenshot_20210819-020202](https://user-images.githubusercontent.com/52004258/130016613-4a3ff398-73ab-4343-9ca3-3de587bb87c3.jpg)
+![Screenshot_20210819-020224](https://user-images.githubusercontent.com/52004258/130016652-d11abfb3-6aec-46d8-b5d0-b35fba565389.jpg)
+![Screenshot_20210819-020219](https://user-images.githubusercontent.com/52004258/130016693-31a7cd4c-50d6-4643-a9a0-ea61ceafdbd4.jpg)
+![Screenshot_20210819-020207](https://user-images.githubusercontent.com/52004258/130016701-e499dcbf-be2e-452a-a61d-c52e54ade1bd.jpg)
+
 
