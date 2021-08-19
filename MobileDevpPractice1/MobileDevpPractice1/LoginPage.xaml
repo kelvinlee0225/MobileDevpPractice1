@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileDevpPractice1.LoginPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Image Source="web_hi_res_512.png" HeightRequest="100" WidthRequest="100"/>
+            <Entry x:Name="emailEntry" WidthRequest="300" Placeholder="E-mail" TextChanged="textEntry_TextChanged" />
+            <Entry x:Name="passEntry" WidthRequest="300" IsPassword="true" Placeholder="Password"/>
+            <Button x:Name="loginButton" Clicked="loginButton_Clicked" Text="Login"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -13,7 +13,6 @@ namespace MobileDevpPractice1
         public MainPage()
         {
             InitializeComponent();
-
         }
     }
 }
